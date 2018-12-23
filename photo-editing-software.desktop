@@ -1,0 +1,12 @@
+[Desktop Entry]
+
+Type=Application
+Name=Photo Editing Software (PES)
+GenericName=Photo Editor
+Comment=Photo Editor for social media sharing
+Path=/usr/bin
+Exec=photo-editing-software
+Icon=applications-graphics
+Terminal=false
+Categories=Graphics
+
