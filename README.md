@@ -3,7 +3,7 @@
 
 1. Clone this repository and cd into it
 ```
-$ git clone git remote add origin git@github.com:STommydx/photo-editing-software-pkg.git
+$ git clone https://github.com/STommydx/photo-editing-software-pkg.git
 $ cd photo-editing-software-pkg
 ```
 
