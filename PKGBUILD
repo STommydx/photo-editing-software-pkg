@@ -1,6 +1,6 @@
 # Maintainer: Tommy Li <ttoo74@gmail.com>
 pkgname=photo-editing-software
-pkgver=1.1
+pkgver=1.2
 pkgrel=1
 pkgdesc="Photo Editor for social media sharing"
 arch=('x86_64')
@@ -9,7 +9,7 @@ license=('unknown')
 depends=('qt5-base' 'qt5-multimedia' 'qt5-svg')
 source=("$pkgname-$pkgver.tar.gz::https://github.com/STommydx/photo-editing-software/archive/v$pkgver.tar.gz")
 noextract=()
-sha256sums=('d8e5db6972c6ac8518a665d36a2c1caee20b696af36a0ae668e10148577427df')
+sha256sums=('4d0c7cf051383815da670237ac68f3fe030fdb169555574a9df34cc3a7278315')
 
 prepare() {
 	cd "$pkgname-$pkgver"
